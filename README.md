@@ -13,3 +13,7 @@ A terceira página é composta por:
     Visual mapa 2: Soma de lucro (profit) por país 
 
     Visual de pizza: Lucro por segmento 
+
+![image](https://github.com/marinnaleon/SalesReport/assets/142454626/36eea4f7-7bbf-4392-9adc-2ed40b8d855f)
+![image](https://github.com/marinnaleon/SalesReport/assets/142454626/cd58bb9f-6740-46fc-9bca-e8a46df44e69)
+![image](https://github.com/marinnaleon/SalesReport/assets/142454626/2782a04d-aa0c-4b5e-b881-22ba15503ba3)
